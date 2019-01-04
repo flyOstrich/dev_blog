@@ -249,7 +249,7 @@ delegate(proto, 'request')
 [context.js](https://github.com/koajs/koa/blob/master/lib/context.js) 
 
 
-本文所有的源码可以再我的github [flyingOstrich](https://github.com/flyOstrich)上找到，
+本文所有的源码可以再我的github [flyOstrich](https://github.com/flyOstrich/dev_blog/tree/master/%E4%B8%80%E6%AD%A5%E4%B8%80%E6%AD%A5%E5%AE%9E%E7%8E%B0Koa2%E6%A1%86%E6%9E%B6)上找到，
 希望对大家深入理解Koa有更多的帮助！
 
 
